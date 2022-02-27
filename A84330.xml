@@ -1,0 +1,806 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Elegie on the meekest of men, the most glorious of princes, the most constant of martyrs, Charles the I. &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84330</idno>
+            <idno type="STC">Wing E422</idno>
+            <idno type="STC">Thomason E553_1</idno>
+            <idno type="EEBO-CITATION">50805900</idno>
+            <idno type="OCLC">ocm 50805900</idno>
+            <idno type="VID">165074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165074)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E553[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Elegie on the meekest of men, the most glorious of princes, the most constant of martyrs, Charles the I. &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry.</term>
+               <term>Elegiac poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165074:1" rendition="simple:additions"/>
+            <p>
+               <hi>AN ELEGIE</hi> On
+<list>
+                  <item>The Meekeſt of Men,</item>
+                  <item>The moſt glorious of Princes,</item>
+                  <item>The moſt Conſtant of Martyrs,</item>
+               </list> 
+               <hi>CHARLES</hi> the <hi>I. &amp;c.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>Printed in the Yeare, 1649.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:165074:2"/>
+            <pb n="1" facs="tcp:165074:2"/>
+            <head>AN <hi>ELEGIE,</hi> &amp;c.</head>
+            <opener>
+               <salute>Moſt cruell men,</salute>
+            </opener>
+            <l>CAn you a winged ſoules ſwift flight reſtraine,</l>
+            <l>And lure her to her widowed home againe?</l>
+            <l>Or bound the wandrings of the floating blood?</l>
+            <l>And to his purple channell charme his flood?</l>
+            <l>Can you a gaſping hearts falne heat repaire,</l>
+            <l>And into breath coyne the unfaſhion'd ayre?</l>
+            <l>Can you unweave the Nerves, then twiſt their thred,</l>
+            <l>And to th'unravell'd corps re-fit the head?</l>
+            <l>Who can doe leſſe then this, ſhould feare to kill:</l>
+            <l>Beſt pulling down is by a Builder ſtill.</l>
+            <l>But coole debates you can embrace no more</l>
+            <l>Then <hi>Ceſars</hi> Lion, who his Teacher tore.</l>
+            <l>From meaner gore, and Subjects courſer flood,</l>
+            <l>Your curious Treaſon thirſts your Princes blood:</l>
+            <l>And fleſht in under-ſlaughter, boldly brings</l>
+            <l>Rais'd appetite to diet on your Kings.</l>
+            <l>No Epicure like thriving Murder's found:</l>
+            <l>Her Streame taſts foule, unleſſe her Spring be crown'd.</l>
+            <l>But though who Thrones and Majeſtie betray,</l>
+            <l>As largeſt guilt, ſo reape the largeſt prey,</l>
+            <l>And ſage projecting Hell her ſnares might feare,</l>
+            <l>But that ſhe bids, high pay, and damnes ſome deare:</l>
+            <l>Yet few have levell'd at a Princes fall,</l>
+            <l>But ſuch whoſe claime did for ſucceſſion call:</l>
+            <l>Whoſe bordering title tyr'd to be kept downe,</l>
+            <l>Caſt traines leſſe for his ruine, then his Crowne.</l>
+            <l>
+               <pb n="2" facs="tcp:165074:3"/>But here the deſperate Rebell ſtrikes at
+ſway,</l>
+            <l>Not for who ſhall ſucceed, but that none may:</l>
+            <l>Deeming the crime leſſe daring, of leſſe hight</l>
+            <l>To raviſh Scepters, then to break them quite:</l>
+            <l>As if an ampler beame of pow'r were hurl'd</l>
+            <l>To hatch a Chaos, then create a world.</l>
+            <l>No ſhie concealment leads this murder in;</l>
+            <l>That were too much the Modeſty of ſin.</l>
+            <l>No cloſet-ambuſh, unſuſpected pill,</l>
+            <l>No mingled cup, no ſecret drug muſt kill,</l>
+            <l>Succeſſe hath rais'd them up to opner crimes,</l>
+            <l>
+               <hi>Rolfe</hi> was an Inſtrument for doubtfull times.</l>
+            <l>A mock Tribunal's built, a pageant Court,</l>
+            <l>Which but for matchleſſe crimes, might paſſe for
+ſport,</l>
+            <l>So fraile and lawleſſe; Faith hath no defence</l>
+            <l>To credit, 'tis at all but inſolence.</l>
+            <l>No fond <hi>Romance,</hi> no fam'd <hi>Arcadia</hi> treats,</l>
+            <l>Of ſuch Eutopian, frantick Judgement Seates:</l>
+            <l>At whoſe dire black decrees, we wondring ſtand,</l>
+            <l>As ſome pale Ghoaſts dim taper, and cold hand</l>
+            <l>Did waft us through the ſhades, untill he brings</l>
+            <l>Where Fairie Traytors murder aery Kings:</l>
+            <l>While ſlumbring we invoke the mornings light,</l>
+            <l>To chaſe the Legend-viſion from our ſight.</l>
+            <l>High in this dreame, in this phantaſtick Bench,</l>
+            <l>Bold apparition <hi>Bradſhaw</hi> doth intrench.</l>
+            <l>One whom the genuine Bar did ſeldome ſee,</l>
+            <l>Whoſe obſcure tongue ſcarce boaſts a ſeven years
+Fee.</l>
+            <l>Whoſe Lungs are all his Law, whoſe pleading noiſe,</l>
+            <l>And ſilence, dearer then diſcreeter voice.</l>
+            <l>Whoſe conſcience weares a face for every dreſſe;</l>
+            <l>Religion juſtifies the Savages.</l>
+            <l>Faction'd, and byas'd, for who gives moſt faire,</l>
+            <l>Camelion through, onely not hir'd with Aire.</l>
+            <l>
+               <pb n="3" facs="tcp:165074:3"/>Whoſe inſolence no preſence can
+relaxe,</l>
+            <l>Whoſe carriage wounds his <hi>King</hi> worſe then the
+Axe.</l>
+            <l>This needy Oratour, now richer dreſt,</l>
+            <l>And higher plac'd, is Image ſtill at beſt:</l>
+            <l>Who though from hell, he his glib dictates hold,</l>
+            <l>As Satan talk't i'th' Idols tongues of old;</l>
+            <l>Yet the cloſe drift of this bright pomp and ſhrine,</l>
+            <l>Is nor the Devill; nor He, but worſe deſigne.</l>
+            <l>The Epheſian work-men great <hi>Diana</hi> made,</l>
+            <l>Not for <hi>Diana's</hi> ſake, but their own trade.</l>
+            <l>Our Soveraignes ſighes, the Peoples louder groane</l>
+            <l>Is not black Incenſe burnt to <hi>Bell</hi> alone,</l>
+            <l>But ſtrow their Altars round, and we ſhall meet</l>
+            <l>An undiſtinguiſht rapines numerous feet.</l>
+            <l>The Bloudy <hi>Rebels</hi> conſcious of their ſlaine,</l>
+            <l>Like the firſt murderer, the guilty <hi>Caine.</hi>
+            </l>
+            <l>Though juſt Remorſe lookes nobler then offence,</l>
+            <l>Prefer continuance to penitence.</l>
+            <l>Weigh crimes 'gainſt mercies, down the Balance beare,</l>
+            <l>Much with their ſins, but moſt with their deſpaire.</l>
+            <l>Their own pale feares arme to this deſperate thruſt,</l>
+            <l>Their <hi>King</hi> can pardon, but they cannot truſt.</l>
+            <l>The haughty Tygers dare the Lyons ſpight,</l>
+            <l>And force bold inrodes through their Soveraignes right;</l>
+            <l>But if retireing from incroaching pride,</l>
+            <l>They make their proper confines bound their tide:</l>
+            <l>A faithfull truce is ſtruck, peace ſhuts in warres,</l>
+            <l>And freſh aſſurance ſprings ev'n from their jarres;</l>
+            <l>One equall deſert ſhrowds their paſtime ſtill,</l>
+            <l>And each intruſt their ſlumbers to one hill.</l>
+            <l>But jealous guilt, nor fence, nor ſafety hath:</l>
+            <l>A <hi>Rebell</hi> is a Tiger without faith.</l>
+            <l>But though ſtung conſcience preſſe to be ſecure,</l>
+            <l>And would be wary when ſhe can't be ſure;</l>
+            <l>
+               <pb n="4" facs="tcp:165074:4"/>Yet oft ſhe moſt encounters what ſhe
+flies,</l>
+            <l>And all her ruine in her Refuge lies.</l>
+            <l>For had their Foes conſpir'd, and fram'd a pit,</l>
+            <l>Whoſe traine, whoſe deepeſt artifice ſhould hit:</l>
+            <l>They none ſo ſpeeding, none ſo fleet could bring,</l>
+            <l>As what them ſelves have ſhap'd, their ſlaughter'd King.</l>
+            <l>By this, they naked lie to weakeſt eyes,</l>
+            <l>And quit their ableſt guard, their long diſguiſe;</l>
+            <l>Whoſe ſtrength like mens in ambuſh, ſtill hath been,</l>
+            <l>Not from their ſtrength, but cauſe their ſtrength's
+unſeen.</l>
+            <l>Whom ſhall they combat now in's own defence,</l>
+            <l>And whom bring home onely by driving hence?</l>
+            <l>Whom ſhall they diſobey to ſerve his will?</l>
+            <l>Whom ſhall their Canon court, and humbly kill?</l>
+            <l>Whoſe omnipreſence ſpace ſhall reconcile;</l>
+            <l>Be here, and yet be hence a hundred mile?</l>
+            <l>Whoſe doubtfull ſeal ſhall, while it is betwaine,</l>
+            <l>And burnt from phenix-cinders bud againe?</l>
+            <l>They, whoſe thick vowes, exalted hearts and eyes,</l>
+            <l>High as the skies, and ſtable as the skies;</l>
+            <l>Who know their lives are fraile, ſhort recompence,</l>
+            <l>And cheap oblation weigh'd with conſcience:</l>
+            <l>Will now no longer gorge their venomous pils,</l>
+            <l>Nor by eluſions ſteere enlightned wils;</l>
+            <l>Nor prize the ſhame of finding former ſin</l>
+            <l>At the ſad rate of wading farther in.</l>
+            <l>But haſte returnes as vigorous as miſtake,</l>
+            <l>And hate the gaſtly dreame the more they wake:</l>
+            <l>No longer brook a <hi>Tyler</hi> or a <hi>Cade,</hi>
+            </l>
+            <l>Thoſe Dung-hill <hi>Tyrants</hi> whom themſelves have
+made:</l>
+            <l>Which like dire comets mounted in the aire,</l>
+            <l>Raine plagues on earth, whoſe vapours plac't them there.</l>
+            <l>They find this hot impatience 'gainſt the throne,</l>
+            <l>Is by its embers but to light their owne.</l>
+            <l>
+               <pb n="5" facs="tcp:165074:4"/>Like him, who rais'd his Gods adored head,</l>
+            <l>To make his owne blaſpheme it in the ſtead.</l>
+            <l>Hence their Agreement, chaines and ſhackles throwes,</l>
+            <l>As not what we Agree, but they impoſe;</l>
+            <l>Gilding the peircing'ſt flames with ſpecious ſmoake,</l>
+            <l>Gloſſing it our conſent, which is their yoake.</l>
+            <l>Were their dark arts ſoft as their gliſtering ſhewes,</l>
+            <l>Did their throng'd chapplets ſcatter nought but Roſe:</l>
+            <l>Did they a Freedome give, was ours before,</l>
+            <l>Which the <hi>Kings</hi> ſlaughter were but to reſtore,</l>
+            <l>Yet the Acceptance ought to prove ours ſtill,</l>
+            <l>And none obtrude a bliſſe againſt our will:</l>
+            <l>'Tis not a Liberty we needs muſt have,</l>
+            <l>And he is only free, who may be ſlave.</l>
+            <l>Nay, were't our keene requeſt, and eager cry,</l>
+            <l>It might ſo fall, 'twere nobler to deny;</l>
+            <l>Their bounty, us might to our ruine arme,</l>
+            <l>And better not beſtow, then give to harme:</l>
+            <l>Who weapons one, who ſeekes himſelfe to kill,</l>
+            <l>Beſtowes a murder, and a Liberall Ill.</l>
+            <l>And ſuch is theirs, and worſe, for they afford</l>
+            <l>Not only meanes to kill, but prompt the Sword.</l>
+            <l>Mens phrenſie bated now, and could endure</l>
+            <l>To hear of phyſick, though 'twere far from cure;</l>
+            <l>When cruell they break in, and crying, ſave,</l>
+            <l>Intombe the <hi>Nation</hi> in their <hi>Soveraignes</hi>
+grave.</l>
+            <l>The Heathen <hi>Brutus</hi> did at murder ſtay,</l>
+            <l>Who, though he durſt eject, he durſt not ſlay:</l>
+            <l>His bare depoſing too, no ſhelter brings,</l>
+            <l>But that it faſtned on the wroſt of <hi>Kings:</hi>
+            </l>
+            <l>The Publick curſe had blaſted all his praiſe,</l>
+            <l>Had his attempt been up ere <hi>Tarquins</hi> dayes.</l>
+            <l>Where ſhall they build their plea, who at once doe</l>
+            <l>Deſtroy the beſt of <hi>Men,</hi> and <hi>Princes</hi>
+too?</l>
+            <l>
+               <pb n="6" facs="tcp:165074:5"/>Whoſe rooted Thrones fair growth did leſſe
+improve</l>
+            <l>From clear unenvied claime, then Subjects love,</l>
+            <l>Whoſe boundleſſe worth, and rate had given Him ſway,</l>
+            <l>Though His deſcent and title were away.</l>
+            <l>And now, ſince virtue vice doth beſt deſcrie,</l>
+            <l>As ſtraight ſhewes ſtraightneſſe and obliquitie;</l>
+            <l>His prudent ſway, her beauty beſt affords,</l>
+            <l>Drawn out, and ſhadowed by <hi>uſurping Lords.</hi>
+            </l>
+            <l>Whoſe early firſt decree ſo loath'd hath ſtood,</l>
+            <l>By framers guilt, and injur'd <hi>Straffords</hi> Blood.</l>
+            <l>Who ſuppled Lawes, and gag'd them to their wills,</l>
+            <l>Not to ſupport their Rights, but ſtrenghthen Ills.</l>
+            <l>No reſolves ſteady, no vote tumult ſtrong,</l>
+            <l>But ratified, or cancell'd by th' next throng:</l>
+            <l>Such floating levities their coine diſgrac't,</l>
+            <l>Till cheap irreverence the mint defac't.</l>
+            <l>Whence poorly conſcious of their tickliſh ſway,</l>
+            <l>They ſweat to husband and improve their day;</l>
+            <l>Working to ſteer their low deſignes about,</l>
+            <l>Ere the next Faction ſhake their title out:</l>
+            <l>They leaſe their intereſt, each ſuffrage rent,</l>
+            <l>As the <hi>two Houſes</hi> were their <hi>Tenement:</hi>
+            </l>
+            <l>Who chaffers beſt, buyes mercenary throates,</l>
+            <l>Reaps plenteous harveſt in the next dayes votes:</l>
+            <l>They ſheare the <hi>People,</hi> bear their fleece away,</l>
+            <l>Not as their Orphan-wards, but happier prey;</l>
+            <l>Place and preferments paſſe their market-curſe,</l>
+            <l>Not to the worthieſt men, but ſtrongeſt purſe</l>
+            <l>Succeed by families, relations ſcale,</l>
+            <l>Make Patriots not our <hi>choice,</hi> but their
+<hi>Intail</hi>
+            </l>
+            <l>Deſert, or hold their ſtations with the Tide:</l>
+            <l>
+               <hi>Ruine,</hi> or <hi>ruined,</hi> as Factions ſide.</l>
+            <l>Nere <hi>acting</hi> right, now <hi>ſuffering</hi> this
+alone,</l>
+            <l>Their <hi>Uſurpation</hi> fell with <hi>CHARLES His
+Throne.</hi>
+            </l>
+            <l>
+               <pb n="7" facs="tcp:165074:5"/>Who Antidote to all the ills of theſe,</l>
+            <l>And all their poiſons ſtrict Antipodes,</l>
+            <l>Who when his crownes foar'd higheſt, did ev'n then</l>
+            <l>Remember ſtill he was a <hi>King</hi> of men,</l>
+            <l>Made their advantage compaſſe to his owne,</l>
+            <l>And rankt their freedome equall with his throne.</l>
+            <l>Ne'r checkt their <hi>Liberty</hi> till 't <hi>licenſe</hi>
+ſtood,</l>
+            <l>Nor askt their goods, but for their greater good.</l>
+            <l>Who i'th'loud prejudice <hi>five Members</hi> ſin,</l>
+            <l>(Which hung Reforming out, but Ruine in)</l>
+            <l>Arm'd with the Guards of unoffended State,</l>
+            <l>Like one that would not cruſh it, but debate:</l>
+            <l>Like <hi>Titus</hi> tamely wiſh'd confederates leave,</l>
+            <l>Ask (bate his Empire) and they ſhould receive.</l>
+            <l>Which fertile ſhowres of grace ſo thick expreſt,</l>
+            <l>They fell too weighty on their narrowed breaſt:</l>
+            <l>And as the clamorous channells ſhallow wombe</l>
+            <l>Would force the bounteous Sea her ſtreames reſume,</l>
+            <l>And from his bankes doth ſoule contractions take,</l>
+            <l>And for a Chryſtal flood re-payes a Lake:</l>
+            <l>So their unſound receipt his bounty ſlew,</l>
+            <l>Return'd in Poyſon, what He ſhed in Dew.</l>
+            <l>Nor did a happier arme His gifts diſpence,</l>
+            <l>Which private threw but vaſt munificence:</l>
+            <l>When hands Himſelfe had rais'd would reach Him downe,</l>
+            <l>And nerves His Almes had ſtrengthned, ſhake His Crown.</l>
+            <l>The Vultur's Rapine doth at Bounty ſtand;</l>
+            <l>Who though ſhe gorge the prey, ſhe ſpares the hand.</l>
+            <l>The Gyant Elephant obeyes for bread;</l>
+            <l>And can forgoe his rage where he is fed.</l>
+            <l>Where ſhall unthankfull men for place intrude?</l>
+            <l>Nor <hi>Aire</hi> nor <hi>Deſert</hi> ſhrowds
+<hi>Ingratitude.</hi>
+            </l>
+            <l>Yet as the equall Sun ore all doth tend,</l>
+            <l>Though ſome uſe light onely to ſee t'offend:</l>
+            <l>
+               <pb n="8" facs="tcp:165074:6"/>And both the barren Bramble and the Flow'r</l>
+            <l>Partake the juice o'th' undiſtinguiſht ſhowre:</l>
+            <l>Becauſe the teeming Clouds deſcending flood</l>
+            <l>Deſignes the <hi>many</hi> onely, not the <hi>good:</hi>
+            </l>
+            <l>So His impartiall bountie Bleſſings threw,</l>
+            <l>Nor did the <hi>Recompence,</hi> but <hi>Gift purſue.</hi>
+            </l>
+            <l>His <hi>Temperance</hi> might an <hi>Anchorite</hi> rigour
+tell,</l>
+            <l>And make the <hi>Pallace</hi> Standard to the <hi>Cell.</hi>
+            </l>
+            <l>Not that its Lawes from the <hi>thin boord</hi> proceed,</l>
+            <l>Where to abſtaine is <hi>Avarice</hi> or <hi>Need;</hi>
+            </l>
+            <l>Or that the <hi>courſeneſſe</hi> of the <hi>cates</hi> might
+pleaſe,</l>
+            <l>Like the great <hi>Conful</hi> caught a parching peaſe,</l>
+            <l>But from the ſtrict chaſtiſing <hi>Plenties</hi> wings,</l>
+            <l>And the ſevereſt uſe of higheſt things.</l>
+            <l>His <hi>Table</hi> graſp'd the <hi>ſeas,</hi> the
+<hi>earth,</hi> the <hi>aire,</hi>
+            </l>
+            <l>Yet ne'r His <hi>ſurfet</hi> was, nor others
+<hi>ſnare.</hi>
+            </l>
+            <l>His <hi>Bowles</hi> maſſacred none, nor did inrage,</l>
+            <l>Till <hi>Subjects blood</hi> the <hi>Princes wine</hi>
+aſſwage.</l>
+            <l>No <hi>Orphans</hi> ſwam about his riotous cup,</l>
+            <l>Like his who <hi>kill'd,</hi> but firſt <hi>dranke Clytus
+up.</hi>
+            </l>
+            <l>Unbatter'd <hi>Chaſtity</hi> his reines and law,</l>
+            <l>Firme 'gainſt the luſtre of all threatning thaw,</l>
+            <l>Which though it want the checks of meane reſtraint,</l>
+            <l>Where <hi>charge</hi> chills <hi>ſin,</hi> and makes the
+goatiſh faint;</l>
+            <l>Where Continence is dread leſt Vice ſucceed,</l>
+            <l>And trembles at the <hi>iſſue,</hi> not the <hi>deed:</hi>
+            </l>
+            <l>Nay though 't ſeem fortify'd with plea, and they</l>
+            <l>Who <hi>ſin</hi> with Him, might ſeeme but to
+<hi>obey,</hi>
+            </l>
+            <l>At leaſt the guilt might large allayes indure,</l>
+            <l>Since few deny where Scepters doe allure:</l>
+            <l>Or ſtand the vigour of a ſtorme or rape,</l>
+            <l>Where <hi>He</hi> was <hi>King,</hi> as by deſcent, ſo
+ſhape:</l>
+            <l>For <hi>He</hi> their title had to back his <hi>owne,</hi>
+            </l>
+            <l>Who to the goodly features give the throne.</l>
+            <l>
+               <pb n="9" facs="tcp:165074:6"/>Yet all was fraile to <hi>Him,</hi> and ſoone
+ſuppreſt,</l>
+            <l>Who ſet His <hi>Scepter</hi> firſt ore <hi>his owne
+breast:</hi>
+            </l>
+            <l>And that His Crownes be in full ſquare combin'd,</l>
+            <l>He made <hi>His fourth Dominion</hi> be <hi>His mind.</hi>
+            </l>
+            <l>Not like that <hi>Romans chast,</hi> but <hi>timerous</hi>
+care,</l>
+            <l>Where to be <hi>chaſt,</hi> was <hi>not to ſee</hi> the
+faire:</l>
+            <l>Who found his breaſt not proofe againſt the flames,</l>
+            <l>But to eſcape, did bid remove the Dames.</l>
+            <l>But as firme-ſighted <hi>Eagles</hi> range the skies,</l>
+            <l>And eye the Sun when ſtrongeſt luſtre flies;</l>
+            <l>So His keene manag'd view ſeverely ſees,</l>
+            <l>Not <hi>frailty to corrupt,</hi> but <hi>judge the piece.</hi>
+            </l>
+            <l>And could i'th' dazeling round ſecurely ſtay,</l>
+            <l>To <hi>bleſſe the Potter, not abuſe the clay.</hi>
+            </l>
+            <l>Wiſe <hi>Juſtice,</hi> ſuch as mercy might diſpence,</l>
+            <l>To ſpare the <hi>Men,</hi> but puniſh the
+<hi>offence.</hi>
+            </l>
+            <l>Not to indanger <hi>Law,</hi> but temper <hi>doome,</hi>
+            </l>
+            <l>To kill <hi>deſpaire,</hi> and yet make none
+<hi>preſume.</hi>
+            </l>
+            <l>And here to match the births of ſtricteſt wills,</l>
+            <l>Where <hi>naked vertues are but glistering ills,</hi>
+            </l>
+            <l>He layes His ballance at the <hi>Temple gates,</hi>
+            </l>
+            <l>The <hi>Sanctuary Shekles</hi> are His weights.</l>
+            <l>He quarters all <hi>His</hi> day with conſtant prayers,</l>
+            <l>No buſineſſe ſhall diſpence, no pleaſure dares.</l>
+            <l>Limnes Copies to <hi>His</hi> Court: doth reine and hold</l>
+            <l>By <hi>Conſtancie</hi> the <hi>careleſſe, Zeale</hi> the
+<hi>cold.</hi>
+            </l>
+            <l>His <hi>intent</hi> thoughts doe their <hi>perplext</hi>
+decry,</l>
+            <l>His <hi>bent</hi> knees, <hi>stiffe,</hi> His <hi>fixt,</hi> the
+<hi>wandring eye.</hi>
+            </l>
+            <l>
+               <hi>Humble,</hi> the <hi>arrogant;</hi> His <hi>vigorous,
+dead;</hi>
+            </l>
+            <l>
+               <hi>His awe, irreverence; affiance, dread:</hi>
+            </l>
+            <l>Makes all <hi>His</hi> practice dictate this alone,</l>
+            <l>They had <hi>two King's</hi> t'obey, <hi>Himſelfe had
+one.</hi>
+            </l>
+            <l>But <hi>Calme</hi> and <hi>Sun-ſhine,</hi> undiſtracted
+eaſe,</l>
+            <l>Yeeld but the Trophies of well-order'd peace;</l>
+            <l>
+               <pb n="10" facs="tcp:165074:7"/>But He was furniſht through, and had a
+ſtock,</l>
+            <l>As for Fates <hi>fawne</hi> and <hi>courtſhip,</hi> ſo their
+<hi>ſhocke.</hi>
+            </l>
+            <l>And though ſome caſes make the taske as great</l>
+            <l>To manage <hi>temper,</hi> as to maſter <hi>heate,</hi>
+            </l>
+            <l>Though a ſound prudence may deſerve as well,</l>
+            <l>To <hi>wave aſſaults,</hi> as courage to <hi>repell;</hi>
+            </l>
+            <l>Yet, here the generous luſtre juſtly ſprings,</l>
+            <l>Leſſe from the <hi>Scepter,</hi> then the
+<hi>Sufferings.</hi>
+            </l>
+            <l>For as the rage of theſe tempeſtuous times</l>
+            <l>Was <hi>His Misfortune</hi> onely, not <hi>His Crimes,</hi>
+            </l>
+            <l>('Leſſe <hi>Socrates</hi> the Lightnings blame muſt
+beare,</l>
+            <l>
+               <hi>Becauſe it Lightned when he took the Aire:</hi>
+            </l>
+            <l>Or 'leſſe the drought lies ſtill at th'Chriſtians
+gate,</l>
+            <l>'Cauſe <hi>Drought and Chriſtians were contemporate</hi>)</l>
+            <l>So His harſh draught had ſome ingredients mixt,</l>
+            <l>Which ne'r on Prince or Man till now were fixt.</l>
+            <l>No Agonie ſo temper'd, no ſuch Cup,</l>
+            <l>Unleſſe when <hi>God</hi> help'd <hi>Man</hi> to drink it
+up.</l>
+            <l>Where though the ſufferings, rival none endure,</l>
+            <l>'Cauſe one ſo ſound receiv'd ſo ſharp a cure;</l>
+            <l>Yet we may ſafely give Perſwaſion this,</l>
+            <l>
+               <hi>Thoſe Jewes then theſe leſſe knew they did
+amiſſe.</hi>
+            </l>
+            <l>His <hi>firſt affliction</hi> from rude Tumults came,</l>
+            <l>From them the <hi>fuell,</hi> but elſewhere the
+<hi>flame.</hi>
+            </l>
+            <l>Their trunke and boughs build the <hi>inſtructed pile,</hi>
+            </l>
+            <l>But worſe men light and fan the flames the while.</l>
+            <l>That waves and winds ſhould mix united ſtocks</l>
+            <l>To bruiſe, and threaten Ships with ſhelves &amp; rocks,</l>
+            <l>Provokes our <hi>wonder</hi> leſſe then moves our
+<hi>griefe,</hi>
+            </l>
+            <l>Becauſe they want the ſenſe of our reliefe.</l>
+            <l>Nay, were their <hi>rage, deſigne,</hi> and <hi>ſhip-wracks,
+ſpleene,</hi>
+            </l>
+            <l>Yet there might cleare pretence, and plea be ſeene,</l>
+            <l>Since our incroachments they but pay with ſpight,</l>
+            <l>And doe but check uſurpers of their right:</l>
+            <l>
+               <pb n="11" facs="tcp:165074:7"/>For words we to <hi>commerce</hi> and
+<hi>traffick</hi> melt,</l>
+            <l>By them is <hi>inrode</hi> and <hi>invaſion</hi> felt.</l>
+            <l>But ſhould this ſea, theſe winds conduct their threats,</l>
+            <l>To th' awfull palace, where great Neptune ſets,</l>
+            <l>Should their ſwell'd ſurge make his bent Trident grone,</l>
+            <l>And daſh their foaming billowes 'gainſt his Throne:</l>
+            <l>Then might <hi>they</hi> patterne <hi>us,</hi> then we might
+ſee,</l>
+            <l>That <hi>winds</hi> and <hi>waves</hi> at leaſt are <hi>wild as
+we.</hi>
+            </l>
+            <l>Nor was our <hi>phrenſie, fit,</hi> our <hi>uproares,
+blaſts,</hi>
+            </l>
+            <l>Or cloud that <hi>outs not light,</hi> but
+<hi>overcaſts;</hi>
+            </l>
+            <l>But, like that fatall inauſpicious day,</l>
+            <l>When all the leſſe and larger birds of prey,</l>
+            <l>Conſpir'd to force the <hi>Eagle</hi> from her throne,</l>
+            <l>Becauſe her eyes were clearer then their owne:</l>
+            <l>When the vaſt aire ſeem'd to th' throng'd muſter
+ſcant,</l>
+            <l>And with oppreſſing load the Element pant.</l>
+            <l>The injur'd <hi>Eagle</hi> girt in this diſtreſſe,</l>
+            <l>When reaſon nothing could, and force could leſſe,</l>
+            <l>She armes her active plumes with ſwifteſt ſpring,</l>
+            <l>Darts through their rankes, and ſaves her by her wing.</l>
+            <l>But <hi>Eagles</hi> they are well when freed from rape,</l>
+            <l>And need no <hi>reparation</hi> but th' <hi>eſcape:</hi>
+            </l>
+            <l>Re-view the ſun with undiſhonoured eye,</l>
+            <l>And build againe their towring neſts as high.</l>
+            <l>But Princes <hi>ſcape not,</hi> though they are <hi>not
+ſlaine,</hi>
+            </l>
+            <l>They may the <hi>wound,</hi> but cannot flie the
+<hi>ſtaine.</hi>
+            </l>
+            <l>Yet hath our miſchief farther arts, and can</l>
+            <l>Diſtreſſe Him both at once, as <hi>King</hi> and
+<hi>Man.</hi>
+            </l>
+            <l>Our ſharp alarmes forbid his ſhorteſt ſtay,</l>
+            <l>He may adviſe for <hi>gone,</hi> but not <hi>which way.</hi>
+            </l>
+            <l>We ſet His maz'd reſolves at gaze, and ſtart,</l>
+            <l>Elſe t'were not to <hi>drive hence,</hi> but <hi>bid
+Depart.</hi>
+            </l>
+            <l>Elſe had our fury leſſen'd of its ſpight,</l>
+            <l>W' had forc'd Him to a <hi>progreſſe,</hi> not a
+<hi>flight.</hi>
+            </l>
+            <l>But like a pilot huddled up i'th' dark,</l>
+            <l>Himſelfe ſurpris'd, and His unfurniſh't bark,</l>
+            <l>
+               <pb n="12" facs="tcp:165074:8"/>Whom unexpected tempeſts doe
+conſtraine,</l>
+            <l>And from His harbour drive into the maine:</l>
+            <l>No tackle tight, no anchor weather proofe,</l>
+            <l>But waves invade below, and winds aloofe;</l>
+            <l>D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtract and
+toſt, not bound for any road,</l>
+            <l>Nor can returne, nor can hold out abroad.</l>
+            <l>Such was His mixt diſtreſſe; how, what, or where,</l>
+            <l>
+               <hi>Uncertaine all,</hi> but <hi>dangers certaine were.</hi>
+            </l>
+            <l>By this ſelfe-pregnant ſin improves to th'full,</l>
+            <l>
+               <hi>Affront</hi> at <hi>London, Treaſon</hi> growes at
+<hi>Hull:</hi>
+            </l>
+            <l>A bold <hi>repulſe</hi> ſucceeds perplext <hi>abode,</hi>
+            </l>
+            <l>
+               <hi>Deſpis'd</hi> at home, thrives to <hi>refus'd</hi>
+abroad:</l>
+            <l>Place tutours Place, on Cities Cities call,</l>
+            <l>He may not here be <hi>ſafe,</hi> nor there <hi>at all.</hi>
+            </l>
+            <l>When loe the ſpreading miſchief not content</l>
+            <l>To force up breaches in <hi>one</hi> element,</l>
+            <l>Invades <hi>His Navy,</hi> doth inſulting ſtand</l>
+            <l>O're the joynt Trophees both of <hi>Sea</hi> and
+<hi>Land.</hi>
+            </l>
+            <l>To gild this rapine for the vulgar eyes,</l>
+            <l>They chaſe Him through all <hi>His</hi> capacities;</l>
+            <l>Shift <hi>lights</hi> and <hi>diſtances,</hi> untill they
+ſee</l>
+            <l>Another ſelf in Him, which is not He.</l>
+            <l>Vex <hi>ſtills,</hi> and <hi>Crucibles,</hi> the
+<hi>furnace</hi> ply,</l>
+            <l>To ſift and draine a <hi>Chymick Majesty.</hi>
+            </l>
+            <l>At laſt their carefull ſweats auſpicious how'r,</l>
+            <l>Drops <hi>Him apart, diſtinguiſh't from His pow'r.</hi>
+            </l>
+            <l>But the afflicted quill, whoſe penance lies</l>
+            <l>Through all His thorns, muſt ſtories martyr riſe:</l>
+            <l>What hardy plume dares regiſter His cares?</l>
+            <l>When <hi>forraigne</hi> cloſe, to ſow'r <hi>His home</hi>
+affaires;</l>
+            <l>When <hi>Ireland</hi> charitable fame untells,</l>
+            <l>
+               <hi>Adopts</hi> the worſt of ven'mous beaſts;
+<hi>Rebells.</hi>
+            </l>
+            <l>When <hi>Edenburge</hi> out-villain'd <hi>Carthage</hi> hath,</l>
+            <l>And <hi>Scotch</hi> more ſlippery proves then <hi>Punick
+Faith,</hi>
+            </l>
+            <l>When they can <hi>trade</hi> their <hi>King,</hi> and beat a
+price</l>
+            <l>For's Bloud, to ingraine their crimſon Avarice.</l>
+            <l>
+               <pb n="13" facs="tcp:165074:8"/>Whilſt we un-king His Fame, de-throne's
+repute</l>
+            <l>Word our artillery, and libels ſhoote.</l>
+            <l>Shift His reſtraints, and bound him with new hedge,</l>
+            <l>Not for <hi>enlargement,</hi> but <hi>freſh pawne</hi> and
+<hi>pledge</hi>
+            </l>
+            <l>To now prevailing Gaolers; ſnare Him with Shapes</l>
+            <l>Of neerer ills, to prompt him to eſcapes.</l>
+            <l>So the cloſe practis'd foulers treacherous gin,</l>
+            <l>Already ſeiz'd of prey, the loſt bird in:</l>
+            <l>Yet hath attendant dogs, whoſe diſciplin'd throate,</l>
+            <l>And buſie roavings aide their threatning note;</l>
+            <l>Till th' feather'd pris'ner ſcar'd with mixt miſhap,</l>
+            <l>Un-skill'd i'th' guile of the induſtrious trap,</l>
+            <l>Struggles and flings with unſucceſſefull coyle,</l>
+            <l>Till motion weaves inevitable toyle.</l>
+            <l>When varied bondages ſome beames afford,</l>
+            <l>To checker <hi>plots, diſſembling</hi> ſome
+<hi>accord;</hi>
+            </l>
+            <l>Which though ſmooth-phras'd rough ſenſe doth ſtill
+controule</l>
+            <l>T' <hi>un-crowne his head,</hi> or elſe <hi>un-king His
+ſoule.</hi>
+            </l>
+            <l>When all of <hi>Meniall truſt,</hi> whoſe cares expence</l>
+            <l>Hearty with long experienc'd confidence,</l>
+            <l>Pay'd diligent homage to his juſteſt will,</l>
+            <l>Muſt ſee their deſolate rankes, and courſes fill</l>
+            <l>By rough unpractis'd home-ſpun Colonies</l>
+            <l>Of <hi>Ruſſet Courtiers,</hi> and <hi>inſtructed
+ſpies,</hi>
+            </l>
+            <l>Whoſe <hi>treacherous</hi> attendance, and ſlie drift,</l>
+            <l>Makes all their <hi>ſervice</hi> but an <hi>Officious
+ſhrift.</hi>
+            </l>
+            <l>When the pure Altars ſacred ſons muſt flee</l>
+            <l>His reverent approach, when ſingle He</l>
+            <l>Muſt both <hi>His Prieſt,</hi> and <hi>Congregation</hi>
+ſtand,</l>
+            <l>Or ſome raſh <hi>Korahs</hi> foule unhallowed hand</l>
+            <l>Corrupt His virgin gums, and raiſe a ſmoake,</l>
+            <l>Not to <hi>appeaſe</hi> His deity, but <hi>choake.</hi>
+            </l>
+            <l>When the <hi>revolted Caſſocks</hi> plume their darts,</l>
+            <l>With crooked <hi>Sophiſtry's</hi> perverted arts:</l>
+            <l>To reaſon downe His faith with ſtudied pow'r,</l>
+            <l>And drown His ſoul in that confederate ſhow'r.</l>
+            <l>
+               <pb n="14" facs="tcp:165074:9"/>To heighten theſe, when ſome, whoſe
+nobler name</l>
+            <l>In His <hi>declining</hi> Banner armes their fame;</l>
+            <l>Whom yet <hi>ignoble envie</hi> bent awry,</l>
+            <l>Or <hi>Faint Devotion,</hi> cool'd to Indifferencie,</l>
+            <l>Conſpir'd the Churches battery; His weights,</l>
+            <l>Took ballance from <hi>her cauſe,</hi> not from <hi>their
+hates;</hi>
+            </l>
+            <l>He pois'd <hi>thin calumny,</hi> by <hi>ponderous good;</hi>
+            </l>
+            <l>Her <hi>ſole,</hi> and yet <hi>unconquer'd</hi> champ on
+ſtood.</l>
+            <l>When warmer onſets, like the ſearching ploughs,</l>
+            <l>More fertile wounds on natures yeilding browes:</l>
+            <l>Were not the <hi>ſcar,</hi> but <hi>tillage</hi> of his
+heart,</l>
+            <l>Cares thriving husbandry, and fruitfull ſmart,</l>
+            <l>Where what was ſowne a <hi>Croſſe,</hi> ſprung up a
+<hi>ſheafe,</hi>
+            </l>
+            <l>And <hi>Vertue, Harveſt,</hi> though the <hi>Furrow
+griefe.</hi>
+            </l>
+            <l>
+               <hi>His glorious owne Record</hi> gave this preſage,</l>
+            <l>Which next to hallowed writ, and ſacred page,</l>
+            <l>Shall bufie pious wonder, and abide</l>
+            <l>To Chriſtian pilgrimage the <hi>ſecond guide:</hi>
+            </l>
+            <l>Which reconciles (till now) the eternall hates</l>
+            <l>Twixt <hi>ſimple piety,</hi> and <hi>fraudulent States.</hi>
+            </l>
+            <l>Shewes how all <hi>Machiavell</hi> in <hi>Solomon</hi> lies,</l>
+            <l>And cunning makes men <hi>wilely,</hi> but not
+<hi>wiſe.</hi>
+            </l>
+            <l>Bottomes a ſtable Throne, whoſe ſecure chance</l>
+            <l>Shall <hi>ſteady ſit, or in her fall advance.</hi>
+            </l>
+            <l>When gaſtly Death's aſtoniſhing Arreſt</l>
+            <l>In all her terrors, and grim wardrobe dreſt,</l>
+            <l>From a greene Treaty nipt ere fully blowne,</l>
+            <l>And ſoft amuſements of a reſtored throne,</l>
+            <l>He meets with cheerfull combat, and arm'd breath,</l>
+            <l>A <hi>vigorous Reſignation, not a Death.</hi>
+            </l>
+            <l>When <hi>His unlimited forgiveneſſe</hi> flies</l>
+            <l>High as <hi>His Blood's</hi> ſhrill voice, and towring
+cryes,</l>
+            <l>Not ſpun in <hi>ſcanty halfe denying prayers,</hi>
+            </l>
+            <l>
+               <hi>But Legacie obliging to His Heires.</hi>
+            </l>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
